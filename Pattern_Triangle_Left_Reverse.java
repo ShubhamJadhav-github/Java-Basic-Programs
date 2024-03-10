@@ -1,5 +1,5 @@
 import java.util.*;
-class Pattern_Left_Triangle_Reverse
+class Pattern_Triangle_Reverse
 {
 	public static void main(String args[])
 	{
