@@ -1,5 +1,5 @@
 import java.util.*;
-class Pattern_Hollow_Rectangle
+class Pattern_Rectangle
 {
 	public static void main(String args[])
 	{
